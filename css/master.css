@@ -1,0 +1,29 @@
+.top-div{
+  background-image: url("/Users/Tambunting/Desktop/Web Development Projects/Huddle Landing Page/images/bg-hero-desktop.svg");
+}
+
+.huddle-logo{
+  width: 15%;
+  margin-top: 40px;
+  margin-left: 60px;
+}
+
+.try-it-free{
+  position: absolute;
+  right: 0;
+  margin-top: 40px;
+  margin-right: 60px;
+  padding: 10px 50px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+
+.top-body{
+  margin-top: 30px;  
+}
+
+
+.mockups-image{
+  float: right;
+  width: 50%;
+}

@@ -1,11 +1,23 @@
+body{
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+h1, h2{
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}
+
+
 .top-div{
   background-image: url("/Users/Tambunting/Desktop/Web Development Projects/Huddle Landing Page/images/bg-hero-desktop.svg");
 }
 
 .huddle-logo{
-  width: 15%;
+  width: 13%;
   margin-top: 40px;
-  margin-left: 60px;
+  margin-left: 70px;
 }
 
 .try-it-free{
@@ -13,17 +25,32 @@
   right: 0;
   margin-top: 40px;
   margin-right: 60px;
-  padding: 10px 50px;
+  padding: 13px 52px;
   border-radius: 20px;
   font-weight: bold;
 }
 
-.top-body{
-  margin-top: 30px;  
+.get-started-for-free{
+  padding: 14px 52px;
+  border-radius: 25px;
+  color: white;
+  background-color: rgb(255, 82, 191);
+  margin: 20px 0 180px 0;
 }
 
+.top-body{
+  margin-left: 70px;
+}
+
+.top-body-text{
+  margin-top: 180px;
+}
 
 .mockups-image{
   float: right;
   width: 50%;
+  height: auto;
+  margin-right: 80px;
+  position: relative;
+  bottom: 110px;
 }

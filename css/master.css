@@ -76,3 +76,24 @@ h1, h2{
     width: 40%;
     height: auto;
   }
+
+.flowing-conversations{
+  border-radius: 10px;
+  box-shadow: 0 10px 20px 15px rgba(0, 0, 0, 0.06);
+  padding: 150px 100px;
+  margin: 35px 0;
+}
+
+  .flowing-conversations img{
+    float: left;
+    position: relative;
+    bottom: 247px;
+    left: 20px;
+    width: 40%;
+    height: auto;
+  }
+
+.middle-text{
+  margin-left: 650px;
+  width: 45%;
+}

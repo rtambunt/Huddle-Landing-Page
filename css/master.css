@@ -54,3 +54,25 @@ h1, h2{
   position: relative;
   bottom: 110px;
 }
+
+.middle-div{
+  margin: 250px 80px 0 80px;
+}
+
+  .middle-div p{
+    color: #0000005e;
+  }
+
+.grow-together{
+  border-radius: 10px;
+  box-shadow: 0 10px 20px 15px rgba(0, 0, 0, 0.06);
+  padding: 150px 100px;
+}
+
+  .grow-together img{
+    float: right;
+    position: relative;
+    bottom: 280px;
+    width: 40%;
+    height: auto;
+  }

@@ -97,3 +97,18 @@ h1, h2{
   margin-left: 650px;
   width: 45%;
 }
+
+.your-users{
+  border-radius: 10px;
+  box-shadow: 0 10px 20px 15px rgba(0, 0, 0, 0.06);
+  padding: 150px 100px;
+}
+
+  .your-users img{
+    float: right;
+    position: relative;
+    bottom: 240px;
+    left: 55px;
+    width: 40%;
+    height: auto;
+  }
